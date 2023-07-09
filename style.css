@@ -1,0 +1,31 @@
+body{
+margin-left: 50vh;
+margin-right: 50vh;
+
+}
+.size {
+    height: 12vh;
+    width: 12vh;
+    float: left;
+font-size: 8vh;    
+    text-align: center;
+    /* align-content: center;
+    align-items: center;
+justify-content: center;
+justify-items: center; */
+
+}
+.main{
+    display: flex;
+}
+
+.white {
+    background-color:greenyellow;
+}
+.black{ 
+    background-color: green;
+}
+div>img{ height: 10vh;
+    width: 10vh;
+    
+}
